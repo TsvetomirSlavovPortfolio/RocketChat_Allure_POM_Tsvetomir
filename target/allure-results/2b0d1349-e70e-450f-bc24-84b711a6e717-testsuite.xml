@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1504429892326" stop="1504429892870" version="1.5.0" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : RocketChat_Allure_POM_Tsvetomir</name>
+    <title>Default Suite : RocketChat_Allure_POM_Tsvetomir</title>
+    <test-cases>
+        <test-case start="1504429892592" stop="1504429892857" status="passed">
+            <name>test123</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="RocketChat_Allure_POM_Tsvetomir"/>
+                <label name="testClass" value="tests.TestProperties"/>
+                <label name="testMethod" value="test123"/>
+                <label name="host" value="Dell"/>
+                <label name="thread" value="17956@Dell.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

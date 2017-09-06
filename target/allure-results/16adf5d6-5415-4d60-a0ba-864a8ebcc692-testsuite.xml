@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1504429926495" stop="1504429946828" version="1.5.0" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : RocketChat_Allure_POM_Tsvetomir</name>
+    <title>Default Suite : RocketChat_Allure_POM_Tsvetomir</title>
+    <test-cases>
+        <test-case start="1504429939732" stop="1504429939747" status="passed">
+            <name>testGoogle[TC_001,Gladson,Gladson_Password]</name>
+            <description type="text">To verify the working of GMail link from Google Home Page using JavaScript Executor</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="RocketChat_Allure_POM_Tsvetomir"/>
+                <label name="testClass" value="tests.Test1"/>
+                <label name="testMethod" value="testGoogle"/>
+                <label name="testId" value="TC_GMail_001"/>
+                <label name="host" value="Dell"/>
+                <label name="thread" value="13460@Dell.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="TestCaseID" value="TC_001" kind="argument"/>
+                <parameter name="UserName" value="Gladson" kind="argument"/>
+                <parameter name="Password" value="Gladson_Password" kind="argument"/>
+            </parameters>
+        </test-case>
+        <test-case start="1504429939921" stop="1504429939922" status="passed">
+            <name>testGoogle[TC_002,Antony,Antony_Password]</name>
+            <description type="text">To verify the working of GMail link from Google Home Page using JavaScript Executor</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="RocketChat_Allure_POM_Tsvetomir"/>
+                <label name="testClass" value="tests.Test1"/>
+                <label name="testMethod" value="testGoogle"/>
+                <label name="testId" value="TC_GMail_001"/>
+                <label name="host" value="Dell"/>
+                <label name="thread" value="13460@Dell.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="TestCaseID" value="TC_002" kind="argument"/>
+                <parameter name="UserName" value="Antony" kind="argument"/>
+                <parameter name="Password" value="Antony_Password" kind="argument"/>
+            </parameters>
+        </test-case>
+        <test-case start="1504429940161" stop="1504429940163" status="passed">
+            <name>testGoogle[TC_003,TRUE,TRUE]</name>
+            <description type="text">To verify the working of GMail link from Google Home Page using JavaScript Executor</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="RocketChat_Allure_POM_Tsvetomir"/>
+                <label name="testClass" value="tests.Test1"/>
+                <label name="testMethod" value="testGoogle"/>
+                <label name="testId" value="TC_GMail_001"/>
+                <label name="host" value="Dell"/>
+                <label name="thread" value="13460@Dell.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="TestCaseID" value="TC_003" kind="argument"/>
+                <parameter name="UserName" value="TRUE" kind="argument"/>
+                <parameter name="Password" value="TRUE" kind="argument"/>
+            </parameters>
+        </test-case>
+        <test-case start="1504429940314" stop="1504429940316" status="passed">
+            <name>testGoogle[TC_003,10000100,10002]</name>
+            <description type="text">To verify the working of GMail link from Google Home Page using JavaScript Executor</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="RocketChat_Allure_POM_Tsvetomir"/>
+                <label name="testClass" value="tests.Test1"/>
+                <label name="testMethod" value="testGoogle"/>
+                <label name="testId" value="TC_GMail_001"/>
+                <label name="host" value="Dell"/>
+                <label name="thread" value="13460@Dell.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="TestCaseID" value="TC_003" kind="argument"/>
+                <parameter name="UserName" value="10000100" kind="argument"/>
+                <parameter name="Password" value="10002" kind="argument"/>
+            </parameters>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

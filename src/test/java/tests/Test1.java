@@ -15,9 +15,7 @@ public class Test1 extends PageFactoryInitializer
 	public void testGoogle(@Parameter("TestCaseID")String TestCaseID, @Parameter("UserName")String UserName,@Parameter("Password") String Password) 
 			throws Exception
 	{
-		//TestHelper helper = new TestHelper();
-		//helper.click();
-		//GoogleHomePageObjects.
+
 		System.out.println("TestCase ID: "+TestCaseID);
 		System.out.println("UserName: "+UserName);
 		System.out.println("Password: "+Password);

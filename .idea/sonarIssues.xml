@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/README.md">
           <value>
             <set />
@@ -18,7 +23,102 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/ApplicationConfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/environment.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pageObjects/initializePageObjects/PageFactoryInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pageObjects/modules/AdministrationPageObjects.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pageObjects/modules/FlexTabPageObjects.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pageObjects/modules/GMailPageObjects.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pageObjects/modules/GoogleHomePageObjects.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/pageObjects/modules/LoginPageObjects.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/tests/LoginTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/tests/Test1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/testng.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../WebAutomation_Allure/src/test/java/tests/Test1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumber_testng_java/src/main/resources/profiles/dev/config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumber_testng_java/src/main/resources/profiles/dev/config.propertiesOriginal">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumber_testng_java/src/test/java/com/gk/test/page_objects/gui/RocketChatLoginOrRegisterPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumber_testng_java/src/test/java/com/gk/test/page_objects/gui/RocketChatLoginPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumber_testng_java/src/test/java/com/gk/test/step_definitions/gui/RocketChatLoginPageSteps/RocketChatSignInOrRegisterSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumber_testng_java/src/test/java/com/gk/test/step_definitions/gui/RocketChatLoginPageSteps/SignInOrRegisterSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumber_testng_java/src/test/java/com/gk/test/step_definitions/gui/RocketChatSignInOrRegisterSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumber_testng_java/src/test/resources/features/web/RocketChatSignIn.feature">
           <value>
             <set />
           </value>
